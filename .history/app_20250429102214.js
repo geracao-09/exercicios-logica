@@ -103,6 +103,7 @@ question5.innerHTML = `O conceito da sua nota ${answer5} é ${notaConceito}`;
 diaDaSemana = prompt("Informe um dia da semana (formato (xxx-feira/ sabado/ domingo)");
 
 switch(diaDaSemana) {
+    
     case "segunda-feira":
         alert("Senta e chora");
         break;
@@ -124,6 +125,4 @@ switch(diaDaSemana) {
     case "domingo":
         alert("vai dormir");
         break;
-    default:
-        alert("É DIA DA SEMANA!!!");
 }

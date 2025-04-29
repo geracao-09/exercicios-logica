@@ -122,8 +122,5 @@ switch(diaDaSemana) {
         alert("paracuru, *****, ****** e paredão");
         break;
     case "domingo":
-        alert("vai dormir");
-        break;
-    default:
-        alert("É DIA DA SEMANA!!!");
+        alert("")
 }

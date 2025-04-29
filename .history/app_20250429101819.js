@@ -105,25 +105,6 @@ diaDaSemana = prompt("Informe um dia da semana (formato (xxx-feira/ sabado/ domi
 switch(diaDaSemana) {
     case "segunda-feira":
         alert("Senta e chora");
-        break;
     case "terça-feira":
         alert("Mais quatro dias...");
-        break;
-    case "quarta-feira":
-        alert("Usamos rosa.");
-        break;
-    case "quinta-feira":
-        alert("Quase lá...");
-        break;
-    case "sexta-feira":
-        alert("Dia do coffee");
-        break;
-    case "sábado":
-        alert("paracuru, *****, ****** e paredão");
-        break;
-    case "domingo":
-        alert("vai dormir");
-        break;
-    default:
-        alert("É DIA DA SEMANA!!!");
 }

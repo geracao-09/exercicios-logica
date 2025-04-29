@@ -117,13 +117,5 @@ switch(diaDaSemana) {
         break;
     case "sexta-feira":
         alert("Dia do coffee");
-        break;
-    case "sábado":
-        alert("paracuru, *****, ****** e paredão");
-        break;
-    case "domingo":
-        alert("vai dormir");
-        break;
-    default:
-        alert("É DIA DA SEMANA!!!");
+
 }

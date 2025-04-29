@@ -124,6 +124,6 @@ switch(diaDaSemana) {
     case "domingo":
         alert("vai dormir");
         break;
-    default:
+        default:
         alert("É DIA DA SEMANA!!!");
 }
